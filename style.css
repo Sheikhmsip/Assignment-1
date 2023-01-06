@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Header style */
+.bg-image{
+    background-image: url(./images/banner/banner1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    object-fit: cover;
+}
+.header-box{
+    width: 1100px;
+    text-align: right;
+    margin-inline: auto;
+}
+.header-title{
+    padding-top: 20%;
+    font-size: 60px;
+    font-weight: bold;
+}
+.header-discription{
+    font-size: 15px;
+    padding: 20px 0px;
+    
+}
+.pry-btn{
+    background-color: #F15B22;
+    color: #ffff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+}
