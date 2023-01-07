@@ -244,3 +244,12 @@ input::placeholder{
     width: 50%;
     margin-top: 20px;
 }
+.social-icon{
+    display: flex;
+    gap: 10;
+    justify-content: left;
+    align-content: space-between;
+}
+.social-icon img{
+    padding-inline: 5px;
+}
